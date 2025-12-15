@@ -145,8 +145,3 @@ cd House
    - The trained model (`house_price_model.pkl`) and the scaler (`scaler.pkl`) were serialized and saved for future use. These files are located in the `backend\model` directory.
 
 ---
-
-
-## Acknowledgments
-
-This project was developed as a final year project for a school friend of mine.
